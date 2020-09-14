@@ -11,3 +11,5 @@ Foi utilizado um potenciômetro para regular o contraste do display (uma alterna
 O maior placar é salvo na EEPROM e a velocidade do jogo aumenta conforme o personagem avança sem encostar em um cacto.
 
 ![](https://github.com/EduardoSangali/ArduinoDinoGame/blob/master/ArduinoGame/Images/Sketch.PNG)
+
+ [Meu perfil no LinkedIn](https://www.linkedin.com/in/eduardo-sangali/).
